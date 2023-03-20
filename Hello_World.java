@@ -23,7 +23,7 @@ class Hello_World {
 		int input_number;
 		Scanner myObj = new Scanner(System.in);
 		
-		System.out.println("Number Please");
+		System.out.println("Give me a number other than 6661");
 		input_number = myObj.nextInt();
 		return input_number;
 	}
